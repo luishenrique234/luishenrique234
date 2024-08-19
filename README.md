@@ -2,7 +2,7 @@
 
 Meu nome é Luis henrique
 
--Estou estudando na Alura
+-Estou estudando na [alura] (https://www. alura.com.br)
 -Estou me desenvolvendo na Linguagem javascript
 -Utilizo esse espaço para minha organização e compartilhamento do meu projeto desenvolvidos
 
